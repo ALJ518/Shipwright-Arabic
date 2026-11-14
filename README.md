@@ -32,7 +32,8 @@ Shipwright-Arabic (دعم اللغة العربية لبورت Ship of Harkinian
 تفعيل المود والتشغيل:
 شغّل soh.exe مرة أخرى، وتأكد من تفعيل المودات من القائمة:
 Settings ← Mod Menu ← فعّل Enable Mods (وتأكد من وجود ملفات التعريب في القائمة)، ثم أعد تشغيل اللعبة لتطبيقها.
-
+ (للمعربين)
+ تنزيل ملف اداة النصوص SoH.zip  
 الحقوق والشكر
 
 فريق HarbourMasters على تطوير بورت Ship of Harkinian.
